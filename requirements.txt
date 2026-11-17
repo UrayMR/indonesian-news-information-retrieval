@@ -1,2 +1,8 @@
 ipykernel
 ipywidgets
+pandas
+nltk
+contractions
+scikit-learn
+matplotlib
+spacy
